@@ -8,7 +8,7 @@
   </div>
   <div>
     <p class="mb-4">
-      Hello! My name is Ebrar Karademir. I am a Cloud Engineer working at
+      Hello! My name is Ebrar Karademir test. I am a Cloud Engineer working at
       <span
         class="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
         Huawei Cloud</span
